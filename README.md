@@ -18,4 +18,3 @@
   -   Figma
   -   Canva
 - Bootstrap
-- 
